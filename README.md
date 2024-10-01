@@ -24,6 +24,9 @@ During exam preparation, the stress and pressure to perform well can be overwhel
 
 ## Setup and Installation
 * Clone the Repository:
+  '''
   #!/bin/bash
   git clone https://github.com/abcryzz/rag_app.git
   cd rag_app
+  
+  '''
