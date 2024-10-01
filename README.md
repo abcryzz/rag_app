@@ -21,3 +21,8 @@ During exam preparation, the stress and pressure to perform well can be overwhel
 •	Delivering a better learning experience through interactive practice questions.
 •	Offering emotional support when stress or anxiety becomes noticeable in the conversation.
 •	Keeping users focused and motivated by balancing learning with empathetic, supportive responses.
+
+## Setup and Installation
+* Clone the Repository:
+   ''' git clone https://github.com/yourusername/rag-exam-support.git
+cd rag-exam-support '''
