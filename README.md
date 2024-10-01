@@ -24,5 +24,5 @@ During exam preparation, the stress and pressure to perform well can be overwhel
 
 ## Setup and Installation
 * Clone the Repository:
-    (```) git clone https://github.com/yourusername/rag-exam-support.git
-cd rag-exam-support  (```)
+    (``` git clone https://github.com/yourusername/rag-exam-support.git
+cd rag-exam-support  ```)
