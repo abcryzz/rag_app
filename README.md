@@ -5,11 +5,11 @@
 This repository contains a Retrieval-Augmented Generation (RAG) model designed to assist students during exam or quiz preparation by providing an interactive and supportive learning environment. The model not only enhances learning through the generation of practice questions but also detects when the user feels anxious or sad and offers emotionally supportive responses to keep the learning process positive and motivating.
 
 ## Features
-•	Learning Aid: Provides detailed explanations and can generate quiz or exam questions based on the material, helping users prepare more effectively.
-•	Practice Mode: Generates practice questions to test the user's understanding and reinforce key concepts.
-•	Mood Detection: If the model detects that the conversation is taking a negative or anxious turn, it responds with supportive and motivational messages.
-•	Adaptive Responses: Customizes its approach based on the user’s emotional state, combining educational and emotional support.
-•	Document Retrieval: The model retrieves relevant documents or past information to assist with more comprehensive answers, using RAG (Retrieval-Augmented Generation).
+* Learning Aid: Provides detailed explanations and can generate quiz or exam questions based on the material, helping users prepare more effectively.
+* Practice Mode: Generates practice questions to test the user's understanding and reinforce key concepts.
+*	Mood Detection: If the model detects that the conversation is taking a negative or anxious turn, it responds with supportive and motivational messages.
+*	Adaptive Responses: Customizes its approach based on the user’s emotional state, combining educational and emotional support.
+*	Document Retrieval: The model retrieves relevant documents or past information to assist with more comprehensive answers, using RAG (Retrieval-Augmented Generation).
 How It Works
 1.	Input: Users provide prompts related to their learning topics or ask questions that reflect their current study needs.
 2.	Question Generation: The RAG model generates relevant questions based on the study material to help the user practice and deepen their understanding.
