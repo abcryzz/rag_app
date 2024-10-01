@@ -63,10 +63,10 @@ Once the app is running, you can interact with the model by providing prompts re
 
 ## Sample video:
 
-[Watch the Video Tutorial]([https://www.youtube.com/watch?v=your_video_id](https://vimeo.com/1014999369?share=copy))
+[Watch the Video Tutorial]((https://vimeo.com/1014999369?share=copy))
 
 <!-- or for embedding -->
-<iframe width="560" height="315" src="[https://www.youtube.com/embed/your_video_id](https://vimeo.com/1014999369?share=copy)" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="(https://vimeo.com/1014999369?share=copy)" frameborder="0" allowfullscreen></iframe>
 
 
 
