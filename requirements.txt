@@ -1,7 +1,44 @@
+
+# Pathway for the core functionalities
 pathway[all]>=0.11.0
+
+# Python library for managing environment variables
 python-dotenv==1.0.1
+
+# Mathematical functions library
 mpmath==1.3.0
+
+# LiteLLM for handling language model interactions
 litellm>=1.35
-google-generativeai
+
+# Sentence transformers for embedding generation
 sentence-transformers
+
+# Streamlit for building the UI
 streamlit
+
+# YAML parsing and processing
+pyyaml
+
+# Requests for making API calls
+requests
+
+# PyMuPDF (fitz) for handling PDF file operations
+pymupdf
+
+# For handling and managing logging
+loguru
+
+# Regex library (built-in, but explicitly mentioned for regex operations)
+regex
+
+# Additional libraries
+# If you are using threading for multi-threading, it is built-in, but threading models may require:
+tqdm  # For progress bars in case they are needed
+
+# If Docker is part of the deployment, ensure to mention docker library (optional)
+docker
+
+# Additionally, if Pathway’s data sources involve Pandas, add:
+pandas
+
