@@ -43,5 +43,22 @@ During exam preparation, the stress and pressure to perform well can be overwhel
  ```
   python app.py
  ```
+
+##Usage
+Once the app is running, you can interact with the model by providing prompts related to your exam or quiz preparation. Example interactions:
+
+*Learning Assistance:
+
+ *User: "Explain photosynthesis."
+ *Model: "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll..."
+
+*Practice Mode:
+
+ *User: "Can you give me some practice questions on photosynthesis?"
+ *Model: "Sure! Here's a question: What is the primary product of photosynthesis?"
+*Emotional Support:
+
+ *User: "I don't think I’m going to do well in this exam, I'm too stressed."
+ *Model: "It's okay to feel anxious sometimes, but remember how far you've come. Let’s break it down and focus on one topic at a time. You’ve got this!"
  
   
