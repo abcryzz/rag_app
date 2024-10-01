@@ -37,7 +37,7 @@ During exam preparation, the stress and pressure to perform well can be overwhel
 *Set up API Keys: This project requires API access to Mistral and Pathway license key. Create a .env file to store your keys:
  ```
   PATHWAY_LICENSE_KEY=
-  MISTRAL_API_KEY
+  MISTRAL_API_KEY=
  ```
 *Run the Application: Start the application with:
  ```
@@ -60,6 +60,16 @@ Once the app is running, you can interact with the model by providing prompts re
 
  * User: "I don't think I’m going to do well in this exam, I'm too stressed."
  * Model: "It's okay to feel anxious sometimes, but remember how far you've come. Let’s break it down and focus on one topic at a time. You’ve got this!"
+
+## Sample video:
+
+[Watch the Video Tutorial]([https://www.youtube.com/watch?v=your_video_id](https://vimeo.com/1014999369?share=copy))
+
+<!-- or for embedding -->
+<iframe width="560" height="315" src="[https://www.youtube.com/embed/your_video_id](https://vimeo.com/1014999369?share=copy)" frameborder="0" allowfullscreen></iframe>
+
+
+
  
 ## Future Improvements
  * Expanded Emotional Intelligence: Enhance the model’s ability to detect a wider range of emotions and offer more personalized responses.
