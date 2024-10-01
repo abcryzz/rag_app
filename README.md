@@ -1,16 +1,22 @@
-Mental Well-being RAG App
-This Retrieval Augmented Generation (RAG) application provides information and support related to mental well-being. It leverages a powerful language model and a curated collection of documents to answer your questions about mental health, coping strategies, and self-care techniques.
+RAG-based Exam Prep and Emotional Support Model
+Overview
+This repository contains a Retrieval-Augmented Generation (RAG) model designed to assist students during exam or quiz preparation by providing an interactive and supportive learning environment. The model not only enhances learning through the generation of practice questions but also detects when the user feels anxious or sad and offers emotionally supportive responses to keep the learning process positive and motivating.
 
 Features
-Question Answering: Ask questions about various aspects of mental health, and the app will provide relevant and informative answers.
-Document Retrieval: The app retrieves information from a collection of trusted sources to ensure the accuracy and reliability of its responses.
-Privacy-Focused: Your interactions with the app are kept confidential. No personally identifiable information is collected or stored.
+Learning Aid: Provides detailed explanations and can generate quiz or exam questions based on the material, helping users prepare more effectively.
+Practice Mode: Generates practice questions to test the user's understanding and reinforce key concepts.
+Mood Detection: If the model detects that the conversation is taking a negative or anxious turn, it responds with supportive and motivational messages.
+Adaptive Responses: Customizes its approach based on the user’s emotional state, combining educational and emotional support.
+Document Retrieval: The model retrieves relevant documents or past information to assist with more comprehensive answers, using RAG (Retrieval-Augmented Generation).
+How It Works
+Input: Users provide prompts related to their learning topics or ask questions that reflect their current study needs.
+Question Generation: The RAG model generates relevant questions based on the study material to help the user practice and deepen their understanding.
+Emotional Detection: The model monitors the conversation. If anxiety or stress is detected in the input, it generates an encouraging or soothing message.
+Answer Retrieval: The model can pull in relevant documents or previously encountered questions to provide answers or further context.
+Adaptability: By recognizing the emotional state, the model can switch between offering quiz-related assistance and emotional support seamlessly.
+Why It’s a Game-Changer
+During exam preparation, the stress and pressure to perform well can be overwhelming. This model aims to reduce that burden by:
 
-Usage
-Open the App: Access the app in your web browser at http://localhost:8501 (or the port specified in your configuration).
-Ask Questions: Type your questions about mental health into the input field and click "Submit".
-Get Answers: The app will provide you with relevant and helpful information based on its knowledge base.
-
-Disclaimer
-This app is intended for informational purposes only and should not be considered a substitute for professional medical advice. If you are experiencing a mental health crisis or need immediate assistance, please contact a qualified healthcare provider or emergency services in your area.   
-
+Delivering a better learning experience through interactive practice questions.
+Offering emotional support when stress or anxiety becomes noticeable in the conversation.
+Keeping users focused and motivated by balancing learning with empathetic, supportive responses.
