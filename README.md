@@ -63,13 +63,7 @@ Once the app is running, you can interact with the model by providing prompts re
 
 ## Sample video:
 
-[Watch the Video Tutorial]((https://vimeo.com/1014999369?share=copy))
-
-<!-- or for embedding -->
-<iframe width="560" height="315" src="(https://vimeo.com/1014999369?share=copy)" frameborder="0" allowfullscreen></iframe>
-
-
-
+[Watch the Video Tutorial](https://vimeo.com/1014999369?share=copy)
  
 ## Future Improvements
  * Expanded Emotional Intelligence: Enhance the model’s ability to detect a wider range of emotions and offer more personalized responses.
