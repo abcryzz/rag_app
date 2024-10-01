@@ -30,3 +30,11 @@ During exam preparation, the stress and pressure to perform well can be overwhel
   cd rag_app
   
   ```
+*Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
+```
+pip install -r requirements.txt
+```
+*
+
+
+  
