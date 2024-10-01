@@ -1,7 +1,10 @@
-#RAG-based Exam Prep and Emotional Support Model#
-Overview
+## RAG-based Exam Prep and Emotional Support Model
+
+# Overview
+
 This repository contains a Retrieval-Augmented Generation (RAG) model designed to assist students during exam or quiz preparation by providing an interactive and supportive learning environment. The model not only enhances learning through the generation of practice questions but also detects when the user feels anxious or sad and offers emotionally supportive responses to keep the learning process positive and motivating.
-Features
+
+# Features
 •	Learning Aid: Provides detailed explanations and can generate quiz or exam questions based on the material, helping users prepare more effectively.
 •	Practice Mode: Generates practice questions to test the user's understanding and reinforce key concepts.
 •	Mood Detection: If the model detects that the conversation is taking a negative or anxious turn, it responds with supportive and motivational messages.
