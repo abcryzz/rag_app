@@ -61,4 +61,19 @@ Once the app is running, you can interact with the model by providing prompts re
  * User: "I don't think I’m going to do well in this exam, I'm too stressed."
  * Model: "It's okay to feel anxious sometimes, but remember how far you've come. Let’s break it down and focus on one topic at a time. You’ve got this!"
  
-  
+## Future Improvements
+ * Expanded Emotional Intelligence: Enhance the model’s ability to detect a wider range of emotions and offer more personalized responses.
+ * Improved Practice Questions: Generate more challenging or varied questions for deeper learning.
+ * Contextual Awareness: Better linking of related topics or concepts for more integrated learning experiences.
+
+## Contributing
+We welcome contributions to enhance this project! Feel free to open issues or submit pull requests.
+
+ * Fork the repository.
+ * Create a feature branch: git checkout -b feature-name.
+ * Commit your changes: git commit -m "Add new feature".
+ * Push to the branch: git push origin feature-name.
+ * Open a pull request.
+   
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.
