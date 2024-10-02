@@ -53,22 +53,22 @@ During exam preparation, the stress and pressure to perform well can be overwhel
    
 #### Navigate to the Repository:
 
-Open the terminal (Command Prompt or PowerShell) and navigate to your repository folder using:
+* Open the terminal (Command Prompt or PowerShell) and navigate to your repository folder using:
  ```
  cd path\to\repo
  ```
 #### Build the Docker Image:
- Run the following command to build the image:
+* Run the following command to build the image:
  ```
  docker build -t rag .
  ```
 #### Run the Docker Container:
- After the image is built, run the app:
+* After the image is built, run the app:
  ```
  docker run -p 8501:8501 rag
  ```
 #### Access the App:
- Open your browser and navigate to http://localhost:8501 to interact with the web app.
+* Open your browser and navigate to http://localhost:8501 to interact with the web app.
 
 ### For Linux or Mac:
 * For Linux and Mac users, Pathway is natively supported, allowing direct execution of the app without Docker.
