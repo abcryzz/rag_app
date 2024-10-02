@@ -30,16 +30,16 @@ During exam preparation, the stress and pressure to perform well can be overwhel
   cd rag_app
   
   ```
-*Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
+* Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
  ```
   pip install -r requirements.txt
  ```
-*Set up API Keys: This project requires API access to Mistral and Pathway license key. Create a .env file to store your keys:
+* Set up API Keys: This project requires API access to Mistral and Pathway license key. Create a .env file to store your keys:
  ```
   PATHWAY_LICENSE_KEY=
   MISTRAL_API_KEY=
  ```
-*Run the Application: Start the application with:
+* Run the Application: Start the application with:
  ```
   python app.py
  ```
