@@ -73,7 +73,7 @@ Open the terminal (Command Prompt or PowerShell) and navigate to your repository
 ### For Linux or Mac:
 * For Linux and Mac users, Pathway is natively supported, allowing direct execution of the app without Docker.
   
- * Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
+ *  Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
  ```
   pip install -r requirements.txt
  ```
