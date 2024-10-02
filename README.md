@@ -45,36 +45,38 @@ During exam preparation, the stress and pressure to perform well can be overwhel
   MISTRAL_API_KEY=
  ```
 
-* Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
- ```
-  pip install -r requirements.txt
- ```
-
 ### For Window users:
 ####  Install Docker:
 
  * Download and install Docker Desktop.
  * Ensure the Docker Engine is running.
    
-### Navigate to the Repository:
+#### Navigate to the Repository:
 
 Open the terminal (Command Prompt or PowerShell) and navigate to your repository folder using:
  ```
  cd path\to\repo
  ```
-### Build the Docker Image:
+#### Build the Docker Image:
  Run the following command to build the image:
  ```
  docker build -t rag .
  ```
-### Run the Docker Container:
+#### Run the Docker Container:
  After the image is built, run the app:
  ```
  docker run -p 8501:8501 rag
  ```
-### Access the App:
+#### Access the App:
  Open your browser and navigate to http://localhost:8501 to interact with the web app.
- 
+
+### For Linux or Mac:
+* For Linux and Mac users, Pathway is natively supported, allowing direct execution of the app without Docker.
+  
+ * Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
+ ```
+  pip install -r requirements.txt
+ ```
 * Run the Application: Start the application with:
  ```
   python app.py
