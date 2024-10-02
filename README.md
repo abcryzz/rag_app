@@ -10,7 +10,16 @@ This repository contains a Retrieval-Augmented Generation (RAG) model designed t
 *	Mood Detection: If the model detects that the conversation is taking a negative or anxious turn, it responds with supportive and motivational messages.
 *	Adaptive Responses: Customizes its approach based on the user’s emotional state, combining educational and emotional support.
 *	Document Retrieval: The model retrieves relevant documents or past information to assist with more comprehensive answers, using RAG (Retrieval-Augmented Generation).
-How It Works
+
+## Key Components & Integration
+* Embedder: Converts documents into embeddings using a pre-trained model.
+* Parser and Splitter: Parses and splits documents for efficient storage and retrieval.
+* Vector Store: Stores the embeddings for quick similarity searches.
+* LLM: Analyzes the retrieved content and generates human-like, context-aware responses.
+* RAG Question Answering: Combines retrieval with generation for answering questions by blending retrieved knowledge and the LLM's understanding.
+
+
+## How It Works
 1.	Input: Users provide prompts related to their learning topics or ask questions that reflect their current study needs.
 2.	Question Generation: The RAG model generates relevant questions based on the study material to help the user practice and deepen their understanding.
 3.	Emotional Detection: The model monitors the conversation. If anxiety or stress is detected in the input, it generates an encouraging or soothing message.
