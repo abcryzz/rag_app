@@ -39,41 +39,42 @@ During exam preparation, the stress and pressure to perform well can be overwhel
   cd rag_app
   
  ```
-* Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
- ```
-  pip install -r requirements.txt
- ```
 * Set up API Keys: This project requires API access to Mistral and Pathway license key. Create a .env file to store your keys:
  ```
   PATHWAY_LICENSE_KEY=
   MISTRAL_API_KEY=
  ```
-### For Window users:
-#### Install Docker:
 
-Download and install Docker Desktop.
-Ensure the Docker Engine is running.
-Navigate to the Repository:
+* Install the Required Dependencies: Make sure to install the dependencies listed in requirements.txt:
+ ```
+  pip install -r requirements.txt
+ ```
+
+### For Window users:
+####  Install Docker:
+
+ * Download and install Docker Desktop.
+ * Ensure the Docker Engine is running.
+   
+### Navigate to the Repository:
 
 Open the terminal (Command Prompt or PowerShell) and navigate to your repository folder using:
-bash
-Copy code
-cd path\to\repo
-Build the Docker Image:
-
-Run the following command to build the image:
-bash
-Copy code
-docker build -t rag .
-Run the Docker Container:
-
-After the image is built, run the app:
-bash
-Copy code
-docker run -p 8501:8501 rag
-Access the App:
-
-Open your browser and navigate to http://localhost:8501 to interact with the web app.
+ ```
+ cd path\to\repo
+ ```
+### Build the Docker Image:
+ Run the following command to build the image:
+ ```
+ docker build -t rag .
+ ```
+### Run the Docker Container:
+ After the image is built, run the app:
+ ```
+ docker run -p 8501:8501 rag
+ ```
+### Access the App:
+ Open your browser and navigate to http://localhost:8501 to interact with the web app.
+ 
 * Run the Application: Start the application with:
  ```
   python app.py
