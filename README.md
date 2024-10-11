@@ -25,11 +25,11 @@ This repository contains a Retrieval-Augmented Generation (RAG) model designed t
 3.	Emotional Detection: The model monitors the conversation. If anxiety or stress is detected in the input, it generates an encouraging or soothing message.
 4.	Answer Retrieval: The model can pull in relevant documents or previously encountered questions to provide answers or further context.
 5.	Adaptability: By recognizing the emotional state, the model can switch between offering quiz-related assistance and emotional support seamlessly.
-Why It’s a Game-Changer
-During exam preparation, the stress and pressure to perform well can be overwhelming. This model aims to reduce that burden by:
-•	Delivering a better learning experience through interactive practice questions.
-•	Offering emotional support when stress or anxiety becomes noticeable in the conversation.
-•	Keeping users focused and motivated by balancing learning with empathetic, supportive responses.
+## Why It’s a Game-Changer
+### During exam preparation, the stress and pressure to perform well can be overwhelming. This model aims to reduce that burden by:
+*	Delivering a better learning experience through interactive practice questions.
+* Offering emotional support when stress or anxiety becomes noticeable in the conversation.
+* Keeping users focused and motivated by balancing learning with empathetic, supportive responses.
 
 ## Setup and Installation
 * Clone the Repository:
