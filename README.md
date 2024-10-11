@@ -50,6 +50,11 @@ This repository contains a Retrieval-Augmented Generation (RAG) model designed t
 
  * Download and install Docker Desktop.
  * Ensure the Docker Engine is running.
+ * Make sure that Pathway (our service provider) image is present :
+   ```
+   docker pull pathwaycom/pathway
+
+   ```
    
 #### Navigate to the Repository:
 
