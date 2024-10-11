@@ -39,7 +39,7 @@ This repository contains a Retrieval-Augmented Generation (RAG) model designed t
   cd rag_app
   
  ```
-* Set up API Keys: This project requires API access to Mistral and Pathway license key. Create a .env file to store your keys:
+* Set up API Keys: This project requires API access to Mistral and Pathway license key. Create a .env file in the same directory to store your keys:
  ```
   PATHWAY_LICENSE_KEY=
   MISTRAL_API_KEY=
